@@ -6,6 +6,6 @@ _This is underlined_
 
 **This is very _important_**
 
--**Bold**
- -_Italic_
-  -~~Strikethrough~~
+- **Bold**
+ - _Italic_
+  - ~~Strikethrough~~
