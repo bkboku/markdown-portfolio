@@ -7,5 +7,5 @@ _This is underlined_
 **This is very _important_**
 
 - **Bold**
- - _Italic_
-  - ~~Strikethrough~~
+    - _Italic_
+       - ~~Strikethrough~~
